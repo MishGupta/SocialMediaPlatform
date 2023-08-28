@@ -61,11 +61,7 @@ Before you begin, make sure you have the following prerequisites installed:
 - [Node.js](https://nodejs.org/): Install the latest version of Node.js, which includes npm (Node Package Manager).
 - [MongoDB](https://www.mongodb.com/): Set up and configure a MongoDB database to store user data and content.
 
-### Clone the Repository
 
-
-git clone https://github.com/MishGupta/SocialMediaPlatform.git
-cd social-media-platform
 
 
 
