@@ -63,9 +63,10 @@ Before you begin, make sure you have the following prerequisites installed:
 
 ### Clone the Repository
 
-```sh
+
 git clone https://github.com/MishGupta/SocialMediaPlatform.git
 cd social-media-platform
+
 
 
 ## Usage
