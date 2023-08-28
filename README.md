@@ -50,9 +50,23 @@ Before you begin, ensure you have met the following requirements:
 
 
 
-### Installation
-1. [Step-by-step installation instructions.]
-2. [Configuration steps if needed.]
+## Installation
+
+Follow these steps to get the Social Media Platform up and running on your local machine.
+
+### Prerequisites
+
+Before you begin, make sure you have the following prerequisites installed:
+
+- [Node.js](https://nodejs.org/): Install the latest version of Node.js, which includes npm (Node Package Manager).
+- [MongoDB](https://www.mongodb.com/): Set up and configure a MongoDB database to store user data and content.
+
+### Clone the Repository
+
+```sh
+git clone https://github.com/MishGupta/SocialMediaPlatform.git
+cd social-media-platform
+
 
 ## Usage
 
