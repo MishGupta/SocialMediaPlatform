@@ -1,6 +1,6 @@
 ### 12. Appendices
 - **Glossary:** 
-Certainly, here's a list of technical terms commonly used in software development, along with their definitions, which you might find useful in your Social Media Platform SRS (Software Requirements Specification) document:
+List of technical terms commonly used in software development, along with their definitions, which you might find useful in your Social Media Platform SRS (Software Requirements Specification) document:
 
 1. **Backend:** The server-side of a web application responsible for processing data, managing databases, and handling business logic.
 
