@@ -61,6 +61,13 @@ Before you begin, make sure you have the following prerequisites installed:
 - [Node.js](https://nodejs.org/): Install the latest version of Node.js, which includes npm (Node Package Manager).
 - [MongoDB](https://www.mongodb.com/): Set up and configure a MongoDB database to store user data and content.
 
+### Clone the Repository
+
+```sh
+git clone https://github.com/yourusername/social-media-platform.git
+cd social-media-platform
+```
+
 
 
 
@@ -135,6 +142,10 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 2. **Clone Your Fork:**
    Clone the forked repository to your local machine:
+   ```sh
+   git clone https://github.com/yourusername/social-media-platform.git
+   cd social-media-platform
+   ```
 
 
 
