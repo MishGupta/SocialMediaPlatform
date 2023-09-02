@@ -1,4 +1,4 @@
-### 12. Appendices
+### 13. Appendices
 - **Glossary:** 
 List of technical terms commonly used in software development, along with their definitions, which you might find useful in your Social Media Platform SRS (Software Requirements Specification) document:
 
