@@ -10,7 +10,7 @@
 #### 5.4 Security
 - User passwords should be hashed and salted for secure storage.
 - Sensitive user data should be transmitted over encrypted connections (HTTPS).
-- #### 5.5 Privacy
+   #### 5.5 Privacy
 - Safeguarding the personal information,messages and activity history and user data.
 - Compilance with data protection regulations(eg:GDPR) should be ensured and user should be provided with control over its data.
 - #### 5.6 Backup and recovery
