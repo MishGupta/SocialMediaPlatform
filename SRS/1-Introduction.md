@@ -2,7 +2,7 @@
 
 ### 1. Introduction
 #### 1.1 Purpose
-The purpose of this document is to outline the requirements and specifications for the development of a Social Media Platform. This document serves as a reference for stakeholders, developers, and designers involved in the project.
+The purpose of this document is to give the requirements and specifications for the development of a Social Media Platform. This document can be used as a reference for stakeholders, developers and designers involved in the project.
 
 #### 1.2 Scope
 The social media platform aims to provide users with a comprehensive platform for connecting, sharing content, and engaging with others. The platform will include features such as user registration, content posting, interactions, privacy settings, and notifications.
