@@ -1,4 +1,4 @@
-## 6.Functional Requirements
+### 6. Functional Requirements
 
 The following functional requirements outline the features and functionalities of the Social Media Platform.
 
