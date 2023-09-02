@@ -15,5 +15,4 @@
 - Compilance with data protection regulations(eg:GDPR) should be ensured and user should be provided with control over its data.
 - #### 5.6 Backup and recovery
 - For preventing the data loss, the data backup should be done regularly
-- 
--
+  
